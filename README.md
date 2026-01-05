@@ -1,4 +1,7 @@
-![Project Status](https://img.shields.io/badge/Project-Inception_No_Bonus-blueviolet?style=for-the-badge&logo=docker)
+<p align="center">
+    <img src="https://img.shields.io/badge/Score-100%2F100-success?style=for-the-badge&logo=42" alt="Score 100/100">
+    <img src="https://img.shields.io/badge/Infrastructure-Docker-blue?style=for-the-badge&logo=docker" alt="Docker">
+</p>
 
 # 🐳 Inception - System Administration with Docker
 
