@@ -1,0 +1,10 @@
+*
+!Dockerfile
+!conf/
+!tools/setup-db.sh
+
+.git
+.gitignore
+README.md
+*.tmp
+logs/

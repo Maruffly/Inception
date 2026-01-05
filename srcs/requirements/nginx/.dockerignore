@@ -1,0 +1,10 @@
+*
+!Dockerfile
+!conf/
+!tools/setup-ssl.sh
+
+.git
+.gitignore
+README.md
+*.tmp
+logs/
