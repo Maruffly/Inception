@@ -88,14 +88,14 @@ Use the provided `Makefile` to manage the project lifecycle:
 │   │       ├── Dockerfile
 │   │       └── tools/setup-wordpress.sh
 └── secrets/
-
+```
 ## 🧪 Testing & Verification
 
 Once the infrastructure is running, use the following commands to verify that the services are correctly configured and isolated.
 
 ### 1. Global Status
 Check that all containers are running and healthy:
-```bash
+```
 docker ps
 ```
 ### 2. Test MariaDB
