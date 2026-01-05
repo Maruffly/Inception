@@ -24,7 +24,7 @@ The infrastructure consists of three main services connected through a private b
 * **CMS**: WordPress + PHP-FPM
 * **Tools**: WP-CLI, OpenSSL, Make
 
-## Getting Started
+## 🏁 Getting Started
 
 ### 1. Prerequisites
 The project is designed to run on a Linux environment. The `Makefile` automatically creates the necessary local volume directories on the host machine:
