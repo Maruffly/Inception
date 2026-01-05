@@ -1,3 +1,5 @@
+![Project Status](https://img.shields.io/badge/Project-Inception_No_Bonus-blueviolet?style=for-the-badge&logo=docker)
+
 # 🐳 Inception - System Administration with Docker
 
 This project focuses on virtualizing a complete web infrastructure using **Docker Compose** on **Debian Bookworm**. It features a multi-container architecture where each service is isolated and secured, complying with the strict requirements of the 42 curriculum.
